@@ -64,9 +64,11 @@ pip install -r requirements.txt
 python train.py
 ```
 🎯 Future Improvements
-Add confusion matrix visualization
-Implement advanced defenses (defensive distillation)
-Deploy using Streamlit
+1.Add confusion matrix visualization
+2.Implement advanced defenses (defensive distillation)
+3.Deploy using Streamlit
+
+
 👤 Author
 
 Shravani Karambelkar
